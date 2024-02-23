@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Franzua33
 - 👀 I’m interested in learn more about artificial intelligence by using python 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on code python or Arduino...
+- 🌱 I’m currently learning Swift and SwiftUI
+- 💞️ I’m looking to collaborate on code Swift
 - 📫 How to reach me by mail to franchute2123@gmail.com 
 
 <!---
